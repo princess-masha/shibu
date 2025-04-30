@@ -1,2 +1,2 @@
 # shibu
-PIC18F253
+PIC18F2520
